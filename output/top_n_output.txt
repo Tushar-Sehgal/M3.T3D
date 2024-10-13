@@ -1,0 +1,95 @@
+================= Top 3 Congested Traffic Lights for Hour: 5:00 =================
+Traffic Light ID: 1 -- Cars Passed: 356
+Traffic Light ID: 0 -- Cars Passed: 352
+Traffic Light ID: 3 -- Cars Passed: 275
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 6:00 =================
+Traffic Light ID: 2 -- Cars Passed: 343
+Traffic Light ID: 4 -- Cars Passed: 342
+Traffic Light ID: 1 -- Cars Passed: 311
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 7:00 =================
+Traffic Light ID: 0 -- Cars Passed: 371
+Traffic Light ID: 3 -- Cars Passed: 333
+Traffic Light ID: 4 -- Cars Passed: 311
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 8:00 =================
+Traffic Light ID: 4 -- Cars Passed: 336
+Traffic Light ID: 2 -- Cars Passed: 274
+Traffic Light ID: 0 -- Cars Passed: 273
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 9:00 =================
+Traffic Light ID: 3 -- Cars Passed: 379
+Traffic Light ID: 1 -- Cars Passed: 356
+Traffic Light ID: 0 -- Cars Passed: 349
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 10:00 =================
+Traffic Light ID: 3 -- Cars Passed: 460
+Traffic Light ID: 1 -- Cars Passed: 324
+Traffic Light ID: 2 -- Cars Passed: 311
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 11:00 =================
+Traffic Light ID: 3 -- Cars Passed: 336
+Traffic Light ID: 4 -- Cars Passed: 289
+Traffic Light ID: 0 -- Cars Passed: 285
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 12:00 =================
+Traffic Light ID: 3 -- Cars Passed: 349
+Traffic Light ID: 2 -- Cars Passed: 330
+Traffic Light ID: 0 -- Cars Passed: 274
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 13:00 =================
+Traffic Light ID: 0 -- Cars Passed: 374
+Traffic Light ID: 2 -- Cars Passed: 356
+Traffic Light ID: 1 -- Cars Passed: 311
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 14:00 =================
+Traffic Light ID: 4 -- Cars Passed: 373
+Traffic Light ID: 2 -- Cars Passed: 352
+Traffic Light ID: 3 -- Cars Passed: 333
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 15:00 =================
+Traffic Light ID: 0 -- Cars Passed: 429
+Traffic Light ID: 4 -- Cars Passed: 384
+Traffic Light ID: 3 -- Cars Passed: 257
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 16:00 =================
+Traffic Light ID: 0 -- Cars Passed: 370
+Traffic Light ID: 1 -- Cars Passed: 335
+Traffic Light ID: 4 -- Cars Passed: 308
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 17:00 =================
+Traffic Light ID: 2 -- Cars Passed: 428
+Traffic Light ID: 1 -- Cars Passed: 317
+Traffic Light ID: 4 -- Cars Passed: 301
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 18:00 =================
+Traffic Light ID: 0 -- Cars Passed: 371
+Traffic Light ID: 3 -- Cars Passed: 344
+Traffic Light ID: 1 -- Cars Passed: 312
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 19:00 =================
+Traffic Light ID: 1 -- Cars Passed: 277
+Traffic Light ID: 0 -- Cars Passed: 272
+Traffic Light ID: 3 -- Cars Passed: 260
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 20:00 =================
+Traffic Light ID: 0 -- Cars Passed: 391
+Traffic Light ID: 4 -- Cars Passed: 373
+Traffic Light ID: 2 -- Cars Passed: 352
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 21:00 =================
+Traffic Light ID: 3 -- Cars Passed: 352
+Traffic Light ID: 2 -- Cars Passed: 346
+Traffic Light ID: 4 -- Cars Passed: 322
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 22:00 =================
+Traffic Light ID: 3 -- Cars Passed: 311
+Traffic Light ID: 1 -- Cars Passed: 310
+Traffic Light ID: 4 -- Cars Passed: 284
+==================================================================================
+================= Top 3 Congested Traffic Lights for Hour: 23:00 =================
+Traffic Light ID: 3 -- Cars Passed: 396
+Traffic Light ID: 0 -- Cars Passed: 319
+Traffic Light ID: 1 -- Cars Passed: 314
+==================================================================================
